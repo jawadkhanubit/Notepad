@@ -1,0 +1,9 @@
+E:\OOP\My notepad\My notepad\bin\Debug\My notepad.exe.config
+E:\OOP\My notepad\My notepad\obj\Debug\My notepad.csprojResolveAssemblyReference.cache
+E:\OOP\My notepad\My notepad\obj\Debug\My_notepad.NoteBook.resources
+E:\OOP\My notepad\My notepad\obj\Debug\My_notepad.Properties.Resources.resources
+E:\OOP\My notepad\My notepad\obj\Debug\My notepad.csproj.GenerateResource.Cache
+E:\OOP\My notepad\My notepad\bin\Debug\My notepad.exe
+E:\OOP\My notepad\My notepad\bin\Debug\My notepad.pdb
+E:\OOP\My notepad\My notepad\obj\Debug\My notepad.exe
+E:\OOP\My notepad\My notepad\obj\Debug\My notepad.pdb
